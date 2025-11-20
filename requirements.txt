@@ -1,9 +1,0 @@
-Flask
-flask-cors
-gunicorn
-numpy
-pandas
-geopy
-joblib
-scikit-learn==1.2.2
-folium
