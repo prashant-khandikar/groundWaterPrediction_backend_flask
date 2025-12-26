@@ -12,5 +12,5 @@ app.register_blueprint(gw_level_predictor_bp, url_prefix="/api")
 def home():
     return "<h2>Groundwater Prediction API is running! Use /api/predict to get predictions.</h2>"
 
-if __name__ == "__main__":
+
     
